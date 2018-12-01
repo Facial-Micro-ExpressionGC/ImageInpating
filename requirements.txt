@@ -83,7 +83,7 @@ nb_conda_kernels=2.1.0=py35_0
 nbconvert=5.3.1=py35_0
 nbformat=4.4.0=py35h908c9d9_0
 nbpresent=3.0.2=py35_0
-notebook=5.6.0=py35_0
+notebook>=5.7.2
 numpy=1.14.2=py35h5c71026_0
 numpy-base=1.15.2=py35h8128ebf_0
 olefile=0.46=py35_0
@@ -115,7 +115,7 @@ pyyaml=3.13=py35hfa6e2cd_0
 pyzmq=17.1.2=py35hfa6e2cd_0
 qt=5.9.6=vc14h1e9a669_2
 qtconsole=4.4.1=py35_0
-requests=2.19.1=py35_0
+requests>=2.20.0
 scikit-learn=0.20.0=py35heebcf9a_1
 scipy=1.1.0=py35hc28095f_0
 send2trash=1.5.0=py35_0
