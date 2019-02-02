@@ -111,7 +111,7 @@ python-dateutil=2.7.3=py35_0
 pytz=2018.5=py35_0
 pywin32=223=py35hfa6e2cd_1
 pywinpty=0.5.4=py35_0
-pyyaml=3.13=py35hfa6e2cd_0
+pyyaml>=4.2b1
 pyzmq=17.1.2=py35hfa6e2cd_0
 qt=5.9.6=vc14h1e9a669_2
 qtconsole=4.4.1=py35_0
